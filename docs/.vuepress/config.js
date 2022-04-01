@@ -109,5 +109,6 @@ module.exports = {
         hostname: "https://yeram-lim.github.io/IT-ruilan/" 
       }
     ],
+    "@vuepress/plugin-back-to-top",
   ]
 }
