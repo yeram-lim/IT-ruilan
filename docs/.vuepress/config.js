@@ -106,7 +106,7 @@ module.exports = {
     [
       "sitemap", 
       { 
-        hostname: "https://yeram-lim.github.io/IT-ruilan" 
+        hostname: "https://yeram-lim.github.io/IT-ruilan/" 
       }
     ],
   ]
