@@ -30,6 +30,21 @@ module.exports = {
         href: "images/maskable_icon_x192.png",
       },
     ],
+    [
+      "script",
+      {
+        async: true,
+        src: "https://www.googletagmanager.com/gtag/js?id=G-FPY4LE91NJ",
+        // GA에서 발급받은 코드
+      },
+    ],
+    [
+      "script",
+      {},
+      [
+        "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-FPY4LE91NJ');",
+      ],
+    ],
   ],
 
   /**
