@@ -103,5 +103,11 @@ module.exports = {
         },
       },
     ],
+    [
+      "sitemap", 
+      { 
+        hostname: "https://yeram-lim.github.io/IT-ruilan" 
+      }
+    ],
   ]
 }
